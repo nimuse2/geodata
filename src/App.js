@@ -92,23 +92,25 @@ class App extends Component {
                 geo.synth v.1.0
               </h1>
               <h3 className="font-weight-light">
-                A synthesiser that uses friends and families location data to create sounds.
+                A synthesiser that uses location data to create sounds.
               </h3>
+              <h4>
+                <a href="https://www.nickwalters.co.uk">Link to geo data map</a>
+              </h4>
               <p>
                 <strong>About</strong>
+                <br/>
+                The geo.synth is a networked synthesiser that uses peoples location data relative to me, Nick Walters.  I am using these distances to drive different parameters in the synth. 
                 <br/><br/>
-                The geo.synth is a culmination of a few things; As an artist I have a latent compulsion to make work but during the pandemic I have a very ambiguos, dispersed, fractured 'audience', This is an attempt at an expression, a reaction to being 'locked down, to estranged relationships, to my sense of place being questioned, my sense of personal liberty being redefined..
-                <br/><br/>
-                As a musician/ tech-nerd I wanted to dive deeper into the world of music and code:  There has always been a rift between my commercial 'coder' and my personal 'artist' .  This is an attempt to heal that rift and learn more about the technologies invloved: Max/MSP, React.js, Node.js, p5.js and Firebase.
+                It will be available soon as an m4l device that you can download and use in Ableton. 
                 <br/><br/>
                 <strong>Data Collection</strong>
+                <br/>
+                With this form I am attempting to collect data of users I know personally so I can develop a 'geo cluster' relative to me.  I would like to develop the idea further to include various different user 'clusters' and possibly work with the API's of other geo data apps.
                 <br/><br/>
-                With this form I am attempting to collect data of users I know personally so I can develop a 'geo cluster' relative to me.  I would like to develop the idea further to include various different user 'clusters' and possibly work with the API's of other geo data apps, eg: running, cycling, walking..
+                If you would like to add your current lat/ long and a word to the synth please enter some text in the box and click 'submit', the data will be held in a firebase database.  No other data is being collected or kept. It will not be used or seen by any third parties. If you want to preserve anonymity please use a nickname.  Please <a href="mailto: nick@nickwalters.co.uk">email me</a> if you would like to remove it, or if you have any concerns about the data.
                 <br/><br/>
-                If you would like to add your current lat/ long and a word to the synth please enter some text in the box and click send, the data will be held in a firebase database.  No other data is kept. If you want to preserve anonymity please use a nickname.  Please email me if you would like to remove it, or if you have any concerns about the data.
-                <br/><br/>
-                NSW 2021
-                <br/><br/>
+                
               </p>
             </div>
             <div>
@@ -158,6 +160,10 @@ class App extends Component {
                     </div>
                     <div className="bodyNoBoot border m-2 p-2">
                         {this.state.errortxt}
+                    </div>
+                    <div className="bodyNoBoot border m-2 p-2">
+                        &copy;NSW 2021
+                        <br/><br/>
                     </div>
                 </Form.Group>
               </Form>
