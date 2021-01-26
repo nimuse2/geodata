@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/geodata/static/css/main.0aa3c644.chunk.css",
-    "main.js": "/geodata/static/js/main.a81896f4.chunk.js",
-    "main.js.map": "/geodata/static/js/main.a81896f4.chunk.js.map",
+    "main.css": "/geodata/static/css/main.5dd855b6.chunk.css",
+    "main.js": "/geodata/static/js/main.99199b5e.chunk.js",
+    "main.js.map": "/geodata/static/js/main.99199b5e.chunk.js.map",
     "runtime-main.js": "/geodata/static/js/runtime-main.93946297.js",
     "runtime-main.js.map": "/geodata/static/js/runtime-main.93946297.js.map",
     "static/css/2.31ff0196.chunk.css": "/geodata/static/css/2.31ff0196.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.190da202.chunk.js.map": "/geodata/static/js/3.190da202.chunk.js.map",
     "index.html": "/geodata/index.html",
     "static/css/2.31ff0196.chunk.css.map": "/geodata/static/css/2.31ff0196.chunk.css.map",
-    "static/css/main.0aa3c644.chunk.css.map": "/geodata/static/css/main.0aa3c644.chunk.css.map",
-    "static/js/2.7231ae58.chunk.js.LICENSE.txt": "/geodata/static/js/2.7231ae58.chunk.js.LICENSE.txt"
+    "static/css/main.5dd855b6.chunk.css.map": "/geodata/static/css/main.5dd855b6.chunk.css.map",
+    "static/js/2.7231ae58.chunk.js.LICENSE.txt": "/geodata/static/js/2.7231ae58.chunk.js.LICENSE.txt",
+    "static/media/interface-1.4a87671d.png": "/geodata/static/media/interface-1.4a87671d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.93946297.js",
     "static/css/2.31ff0196.chunk.css",
     "static/js/2.7231ae58.chunk.js",
-    "static/css/main.0aa3c644.chunk.css",
-    "static/js/main.a81896f4.chunk.js"
+    "static/css/main.5dd855b6.chunk.css",
+    "static/js/main.99199b5e.chunk.js"
   ]
 }
