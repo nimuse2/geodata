@@ -7,6 +7,7 @@ import Form from "react-bootstrap/Form";
 
 import './App.css';
 import db from './firebase.js';
+import pic from './img/interface-1.png';
 
 class App extends Component {
   
@@ -101,13 +102,22 @@ class App extends Component {
                 <br/>
                 The geo.synth is a networked synthesiser that uses peoples location data relative to me, Nick Walters.  I am using these distances to drive different parameters in the synth. 
                 <br/><br/>
-                It will be available soon as an m4l device that you can download and use in Ableton. 
+                <strong>Perpetual Choir</strong>
+                <br/>
+                It is bourne from my various research threads but is very similar to this idea from around 1000 years ago: 
+                <a href="https://sacred.numbersciences.org/2018/12/27/john-michells-perpetual-choirs/"> John Michells Perpetual Choir</a>
+                <div>
+                    <img alt="ableton device" src={pic}></img>
+                </div>
+                It will be available soon as an m4l device that you can download and use in Ableton. This is a development screenshot 12/ 01/ 2021. 
                 <br/><br/>
                 <strong>Data Collection</strong>
                 <br/>
-                With this form I am attempting to collect data of users I know personally so I can develop a 'geo cluster' relative to me.  I would like to develop the idea further to include various different user 'clusters' and possibly work with the API's of other geo data apps.
+                With this form I am attempting to collect data of users I know personally so I can develop a 'geo cluster' relative to me whilst in 'beta' development.  I would like to develop the idea further to include various different user 'clusters' and possibly work with the API's of other geo data apps.
                 <br/><br/>
-                If you would like to add your current lat/ long and a word to the synth please enter some text in the box and click 'submit', the data will be held in a firebase database.  No other data is being collected or kept. It will not be used or seen by any third parties. If you want to preserve anonymity please use a nickname.  Please <a href="mailto: nick@nickwalters.co.uk">email me</a> if you would like to remove it, or if you have any concerns about the data.
+                If you would like to add your current lat/ long and a word to the synth please enter some text in the box and click 'submit', the data will be held in a firebase database.  No other data is being collected or kept. It will not be used or seen by any third parties. If you want to preserve anonymity please use a nickname.
+                <br/><br/>
+                Please <a href="mailto: nick@nickwalters.co.uk">email me</a> if you would like to remove it, or if you have any concerns about the data, or if you want to get involved!.
                 <br/><br/>
                 
               </p>
