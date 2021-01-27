@@ -106,8 +106,9 @@ class App extends Component {
                 <br/>
                 It is bourne from my various research threads but is very similar to this idea from around 1000 years ago: 
                 <a href="https://sacred.numbersciences.org/2018/12/27/john-michells-perpetual-choirs/"> John Michells Perpetual Choir</a>
+                <br/><br/>
                 <div>
-                    <img alt="ableton device" src={pic}></img>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/K6ZmkOH4Qng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 It will be available soon as an m4l device that you can download and use in Ableton. This is a development screenshot 12/ 01/ 2021. 
                 <br/><br/>
