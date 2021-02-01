@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geodata/static/css/main.5dd855b6.chunk.css",
-    "main.js": "/geodata/static/js/main.7e67017e.chunk.js",
-    "main.js.map": "/geodata/static/js/main.7e67017e.chunk.js.map",
+    "main.js": "/geodata/static/js/main.9404cbc0.chunk.js",
+    "main.js.map": "/geodata/static/js/main.9404cbc0.chunk.js.map",
     "runtime-main.js": "/geodata/static/js/runtime-main.93946297.js",
     "runtime-main.js.map": "/geodata/static/js/runtime-main.93946297.js.map",
     "static/css/2.31ff0196.chunk.css": "/geodata/static/css/2.31ff0196.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31ff0196.chunk.css",
     "static/js/2.7231ae58.chunk.js",
     "static/css/main.5dd855b6.chunk.css",
-    "static/js/main.7e67017e.chunk.js"
+    "static/js/main.9404cbc0.chunk.js"
   ]
 }
