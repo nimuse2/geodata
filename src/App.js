@@ -120,7 +120,7 @@ class App extends Component {
                 <br/><br/>
                 Please <a href="mailto: nick@nickwalters.co.uk">email me</a> if you would like to remove it, or if you have any concerns about the data, or if you want to get involved!.
                 <br/><br/>
-                
+                <span class="text-danger">!! Update 01/02/2021 - Database is locked down for maintenance. Thanks everyone whose contributed so far.  Please email me for more info. </span>
               </p>
             </div>
             <div>
